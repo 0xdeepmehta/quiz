@@ -1,0 +1,1 @@
+web: gunicorn quinzo.wsgi --log-file -
